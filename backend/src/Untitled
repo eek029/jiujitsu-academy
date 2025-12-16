@@ -1,0 +1,4 @@
+cd ~/jiujitsu-academy/backend
+
+# Iniciar servidor
+npm run dev
